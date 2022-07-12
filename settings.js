@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              🅳🆄🅻🅰 🅱🅾🆃 𝓫𝔂 𝓓𝓤𝓛𝓐𝓝
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 DULABOT 𝚅1 𝙱𝚈 𝙳ulan
 //
 //════════════════════════════//
 
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['+94762379374']
+global.premium = ['+94762379374']
+global.ownernomer = '+94762379374'
+global.ownername = '🐦Dulan Maduranga'
+global.botname = '🅳ᴜ🅻ᴀ 🅱ᴏ🆃'
+global.footer = '©𝑫𝑼𝑳𝑨 𝑩𝑶𝑻.'
+global.ig = 'https://github.com/HIMALNUWANSARA'
+global.region = 'Srilanka,North Central,Kekirawa'
+global.sc = 'https://github.com/HIMALNUWANSARA'
+global.myweb = 'https://youtube.com/channel/UC7FBRXqHMM7uEa1yz4vXxeA'
+global.packname = '🅳ᴜ🅻ᴀ 🅱ᴏ🆃'
+global.author = '🐦Dulan Maduranga'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
